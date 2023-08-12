@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "e:/ESP Projects/OTA ESP32/include",
-                "e:/ESP Projects/OTA ESP32/src",
-                "e:/ESP Projects/OTA ESP32/lib/ESP-WiFiSettings-master",
+                "e:/Git/Wifi_With_OTA/include",
+                "e:/Git/Wifi_With_OTA/src",
+                "e:/Git/Wifi_With_OTA/lib/ESP-WiFiSettings-master",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
@@ -211,7 +211,7 @@
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1",
-                "e:/ESP Projects/OTA ESP32/.pio/libdeps/esp32doit-devkit-v1/ESP-WiFiSettings",
+                "e:/Git/Wifi_With_OTA/.pio/libdeps/esp32doit-devkit-v1/ESP-WiFiSettings",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
                 "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
@@ -241,9 +241,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "e:/ESP Projects/OTA ESP32/include",
-                    "e:/ESP Projects/OTA ESP32/src",
-                    "e:/ESP Projects/OTA ESP32/lib/ESP-WiFiSettings-master",
+                    "e:/Git/Wifi_With_OTA/include",
+                    "e:/Git/Wifi_With_OTA/src",
+                    "e:/Git/Wifi_With_OTA/lib/ESP-WiFiSettings-master",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
@@ -444,7 +444,7 @@
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1",
-                    "e:/ESP Projects/OTA ESP32/.pio/libdeps/esp32doit-devkit-v1/ESP-WiFiSettings",
+                    "e:/Git/Wifi_With_OTA/.pio/libdeps/esp32doit-devkit-v1/ESP-WiFiSettings",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
                     "C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
